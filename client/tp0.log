@@ -1,0 +1,13 @@
+[INFO] 18:31:59:706 TP0/(13932:13932): Hola! Soy un log
+[INFO] 18:31:59:710 TP0/(13932:13932): archivo config IP: 127.0.0.1
+
+[INFO] 18:31:59:711 TP0/(13932:13932): archivo config PUERTO: 4444
+
+[INFO] 18:31:59:714 TP0/(13932:13932): archivo config CLAVE: 1306
+
+[INFO] 18:31:59:723 TP0/(13932:13932): Inicio leer_consola
+
+[INFO] 18:32:04:445 TP0/(13932:13932): hola
+[INFO] 18:32:06:716 TP0/(13932:13932): finalizo leer_consola
+
+[INFO] 18:32:06:719 TP0/(13932:13932): Se conecto correctamente

@@ -1,0 +1,72 @@
+[INFO] 17:48:04:026 Servidor/(9586:9586): Servidor listo para recibir al cliente
+[INFO] 17:48:26:153 Servidor/(9586:9586): Se conecto un cliente!
+[INFO] 17:48:26:154 Servidor/(9586:9586): Me llego el mensaje 1306
+[INFO] 17:48:34:105 Servidor/(9586:9586): Me llegaron los siguientes valores:
+
+[ERROR] 17:48:34:107 Servidor/(9586:9586): el cliente se desconecto. Terminando servidor
+[INFO] 17:50:59:689 Servidor/(10031:10031): Servidor listo para recibir al cliente
+[INFO] 17:51:29:070 Servidor/(10031:10031): Se conecto un cliente!
+[INFO] 17:51:29:071 Servidor/(10031:10031): Me llego el mensaje 1306
+[INFO] 17:51:49:409 Servidor/(10031:10031): Me llegaron los siguientes valores:
+
+[ERROR] 17:51:49:412 Servidor/(10031:10031): el cliente se desconecto. Terminando servidor
+[INFO] 17:52:37:308 Servidor/(10269:10269): Servidor listo para recibir al cliente
+[INFO] 17:53:18:173 Servidor/(10269:10269): Se conecto un cliente!
+[INFO] 17:53:18:173 Servidor/(10269:10269): Me llego el mensaje 1306
+[ERROR] 17:55:11:184 Servidor/(10269:10269): el cliente se desconecto. Terminando servidor
+[INFO] 17:55:19:356 Servidor/(10623:10623): Servidor listo para recibir al cliente
+[INFO] 17:56:31:101 Servidor/(10623:10623): Se conecto un cliente!
+[INFO] 17:56:31:101 Servidor/(10623:10623): Me llego el mensaje 1306
+[ERROR] 17:57:25:021 Servidor/(10623:10623): el cliente se desconecto. Terminando servidor
+[INFO] 17:57:32:725 Servidor/(10973:10973): Servidor listo para recibir al cliente
+[INFO] 17:57:42:049 Servidor/(10973:10973): Se conecto un cliente!
+[INFO] 17:57:42:050 Servidor/(10973:10973): Me llego el mensaje 1306
+[INFO] 17:57:57:737 Servidor/(10973:10973): Me llegaron los siguientes valores:
+
+[ERROR] 17:57:57:738 Servidor/(10973:10973): el cliente se desconecto. Terminando servidor
+[INFO] 17:58:58:767 Servidor/(11186:11186): Servidor listo para recibir al cliente
+[INFO] 17:59:16:308 Servidor/(11186:11186): Se conecto un cliente!
+[INFO] 17:59:16:308 Servidor/(11186:11186): Me llego el mensaje 1306
+[INFO] 17:59:49:940 Servidor/(11186:11186): Me llegaron los siguientes valores:
+
+[ERROR] 17:59:49:941 Servidor/(11186:11186): el cliente se desconecto. Terminando servidor
+[INFO] 18:02:52:821 Servidor/(11735:11735): Servidor listo para recibir al cliente
+[INFO] 18:03:02:655 Servidor/(11735:11735): Se conecto un cliente!
+[INFO] 18:03:02:656 Servidor/(11735:11735): Me llego el mensaje 1306
+[INFO] 18:03:13:370 Servidor/(11735:11735): Me llegaron los siguientes valores:
+
+[ERROR] 18:03:13:371 Servidor/(11735:11735): el cliente se desconecto. Terminando servidor
+[INFO] 18:07:12:431 Servidor/(12365:12365): Servidor listo para recibir al cliente
+[INFO] 18:07:30:025 Servidor/(12365:12365): Se conecto un cliente!
+[INFO] 18:07:30:025 Servidor/(12365:12365): Me llego el mensaje 1306
+[INFO] 18:07:43:399 Servidor/(12365:12365): Me llegaron los siguientes valores:
+
+[ERROR] 18:07:43:399 Servidor/(12365:12365): el cliente se desconecto. Terminando servidor
+[INFO] 18:23:48:419 Servidor/(14481:14481): Servidor listo para recibir al cliente
+[INFO] 18:24:03:087 Servidor/(14481:14481): Se conecto un cliente!
+[INFO] 18:24:03:088 Servidor/(14481:14481): Me llego el mensaje 1306
+[INFO] 18:24:09:886 Servidor/(14481:14481): Me llegaron los siguientes valores:
+
+[ERROR] 18:24:09:887 Servidor/(14481:14481): el cliente se desconecto. Terminando servidor
+[INFO] 18:46:54:907 Servidor/(17739:17739): Servidor listo para recibir al cliente
+[INFO] 18:47:04:983 Servidor/(17739:17739): Se conecto un cliente!
+[INFO] 18:47:04:984 Servidor/(17739:17739): Me llego el mensaje 1306
+[INFO] 18:47:12:676 Servidor/(17739:17739): Me llegaron los siguientes valores:
+
+[ERROR] 18:47:12:676 Servidor/(17739:17739): el cliente se desconecto. Terminando servidor
+[INFO] 18:27:21:729 Servidor/(13447:13447): Servidor listo para recibir al cliente
+[INFO] 18:28:23:051 Servidor/(13447:13447): Se conecto un cliente!
+[INFO] 18:28:23:052 Servidor/(13447:13447): Me llego el mensaje 1306
+[INFO] 18:28:34:543 Servidor/(13447:13447): Me llegaron los siguientes valores:
+
+[INFO] 18:28:34:543 Servidor/(13447:13447): hola michi
+[ERROR] 18:28:34:543 Servidor/(13447:13447): el cliente se desconecto. Terminando servidor
+[INFO] 18:31:46:107 Servidor/(13900:13900): Servidor listo para recibir al cliente
+[INFO] 18:32:06:718 Servidor/(13900:13900): Se conecto un cliente!
+[INFO] 18:32:06:719 Servidor/(13900:13900): Me llego el mensaje 1306
+[INFO] 18:32:38:966 Servidor/(13900:13900): Me llegaron los siguientes valores:
+
+[INFO] 18:32:38:968 Servidor/(13900:13900): hola
+[INFO] 18:32:38:968 Servidor/(13900:13900): puto
+[INFO] 18:32:38:968 Servidor/(13900:13900): hola michi
+[ERROR] 18:32:38:968 Servidor/(13900:13900): el cliente se desconecto. Terminando servidor
